@@ -1,0 +1,51 @@
+7897897# - voicemail pwd
+
+Fiserv
+http://is-support.fiserv.com/sc/ess.do?lang=en
+Username- jva25
+Password- Prakash*123
+
+
+Elkins-Mcsherry - FTP details
+ftp - 216.139.147.12
+User:            ntaxuser
+Password:           pass234
+
+
+
+DTCC - Portal login
+
+https://portal.dtcc.com
+Username - suganya.anbumani@ga.natixis.com
+Pwd : prakash123
+
+DTCC- Portal - Prod login
+https://portal.dtcc.com
+Username - suganya.anbumani@ngam.natixis.com
+Pwd : Natixis2014
+Reference Number for next time: 0461270
+
+DTCC Pwd Questions:
+Please enter a PIN that you will remember - 123456
+ 
+ 
+Vestmark
+
+https://na26.salesforce.com/secur/login_portal.jsp?orgId=00D300000000Yec&portalId=060600000004cQ8&startURL=%2F5006000000nWVVw
+Username: suganya.anbumani@ngam.natixis.com
+Pwd : Winter2015
+
+HDFC - 20240929 - Pravee*123
+
+https://vmap.ga.natixis.com/vestmark/servlet/viviport/action/Bootstrap
+
+Vestmark - sanbumani , Spring16
+
+Self Identity Portal - http://172.20.8.56:8080/Main.aspx - CoconutTree
+
+
+
+Schwab Callan adapter
+-----------------------
+User ID: Cindy.Hilomen
+Pwd: just4callan
